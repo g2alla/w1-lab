@@ -1,51 +1,27 @@
 body {
     font-family: "Courier New";
-}
+    }
 
-a:link{
-    font-style: oblique;
-}
+    a:link{
+        font-style: oblique;
+	}
 
-a:visited{
-    font-style: italic;
+	a:visited{
+	    font-style: italic;
 
-}
+	    }
 
-a:hover{
-    font-style: normal;
-    
-}
+	    a:hover{
+	        font-style: normal;
+		    
+		    }
 
-a:active{
-    font-style: oblique;
-    
-}
+		    a:active{
+		        font-style: oblique;
+			    
+			    }
 
-a:disabled{
-    font-style: italic;
-    
-}
-
-h1{
-    font-size: larger;
-}
-
-h2{
-    font-size: large;
-}
-
-h3{
-    font-size: medium;
-}
-
-.superspecial{
-    color: red;
-}
-
-#specialp{
-    color:blue;
-}
-
-#lesspecialp{
-    color:green;
-}
+			    a:disabled{
+			        font-style: italic;
+				    
+				    }
