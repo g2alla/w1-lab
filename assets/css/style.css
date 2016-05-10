@@ -25,3 +25,28 @@ body {
 			        font-style: italic;
 				    
 				    }
+
+				    h1{
+				        font-size: larger;
+					}
+
+					h2{
+					    font-size: large;
+					    }
+
+					    h3{
+					        font-size: medium;
+						}
+
+						.superspecial{
+						    color: red;
+						    }
+
+						    #specialp{
+						        color:blue;
+							}
+
+							#lesspecialp{
+							    color:green;
+							    }
+
