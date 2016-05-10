@@ -46,7 +46,10 @@ body {
 						        color:blue;
 							}
 
-							#lesspecialp{
+							#lessspecialp{
 							    color:green;
 							    }
 
+							    .foodlist{
+							        font-size: xx-small;
+								}
